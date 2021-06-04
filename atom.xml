@@ -3,11 +3,11 @@
   <title>小明同学的小书房</title>
   
   
-  <link href="http://conankids.gitee.io/atom.xml" rel="self"/>
+  <link href="https://conankids.github.io/atom.xml" rel="self"/>
   
-  <link href="http://conankids.gitee.io/"/>
+  <link href="https://conankids.github.io/"/>
   <updated>2021-06-04T08:42:28.663Z</updated>
-  <id>http://conankids.gitee.io/</id>
+  <id>https://conankids.github.io/</id>
   
   <author>
     <name>conankids</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://conankids.gitee.io/2021/06/04/hello-world/"/>
-    <id>http://conankids.gitee.io/2021/06/04/hello-world/</id>
+    <link href="https://conankids.github.io/2021/06/04/hello-world/"/>
+    <id>https://conankids.github.io/2021/06/04/hello-world/</id>
     <published>2021-06-04T08:42:28.663Z</published>
     <updated>2021-06-04T08:42:28.663Z</updated>
     
